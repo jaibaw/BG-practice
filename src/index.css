@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: 'Muli';
+  color: #172026 !important;
+  font: normal normal normal 14px/20px Muli;
+  letter-spacing: 0px;
+  opacity: 1;
+  src: local('Muli'), url(./assets/fonts/muli/Muli-Regular.ttf) format('opentype');
+}
+
+body {
+  margin: 0px;
+  font-family: Muli !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
